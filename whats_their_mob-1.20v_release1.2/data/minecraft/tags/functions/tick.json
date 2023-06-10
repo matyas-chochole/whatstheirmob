@@ -1,0 +1,10 @@
+{
+    "values": [
+        "wtm:tick",
+        "wtm:lobby/settings_tick",
+        "wtm:actionbar",
+        "wtm:tested_equalizing",
+        "wtm:flash_mode",
+        "wtm:blast_mode"
+    ]
+}
